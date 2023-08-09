@@ -1,5 +1,5 @@
 # AttendaceGuard
- Introducing our cutting-edge AttendaceGuard (Face Recognition-Based Attendance System) – a smart, efficient, and secure solution to revolutionize your attendance tracking experience. With advanced facial recognition technology, this system offers a seamless and contactless way to manage attendance in schools, offices, and events.
+Introducing our cutting-edge AttendaceGuard (Face Recognition-Based Attendance System) – a smart, efficient, and secure solution to revolutionize your attendance tracking experience. With advanced facial recognition technology, this system offers a seamless and contactless way to manage attendance in schools, offices, and events.
 
 Say goodbye to traditional paper-based registers and manual check-ins. Our Face Recognition-Based Attendance System identifies individuals instantly and accurately by analyzing unique facial features. Simply stand in front of the camera, and the system will do the rest. No more hassle of swipe cards, PINs, or fingerprints – it's as simple as a smile!
 
